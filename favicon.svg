@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>여의도 룸싸롱 업체 비교</title>
+  <rect width="64" height="64" rx="15" fill="hsl(351 71% 31%)"/>
+  <g transform="rotate(180 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(351 24% 96%)" stroke-width="7" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(76 68% 63%)"/></g>
+</svg>
